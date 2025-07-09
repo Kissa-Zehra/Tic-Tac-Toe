@@ -7,17 +7,10 @@ Take turns, block your opponent, and claim your victory! ✨
 
 ## 🧠 Features
 
-<<<<<<< HEAD
-- 🧍‍♂️ Two-player turn-based gameplay
-- ✅ Input validation (prevents overwriting cells)
-- 🏆 Detects win, tie, and allows replay
-- 🔁 Replayable without restarting the script
-=======
 - 🧍‍♂️ Two-player turn-based gameplay  
 - ✅ Input validation (prevents overwriting cells)  
 - 🏆 Detects win, tie, and allows replay  
 - 🔁 Replayable without restarting the script  
->>>>>>> fa5fbde (Add complete README file)
 
 ---
 
@@ -32,11 +25,7 @@ Open terminal or command prompt and run:
 
 ```bash
 python tic_tac_toe.py
-<<<<<<< HEAD
-=======
 ```
-
----
 
 ## 🎯 Game Preview
 
@@ -94,21 +83,3 @@ A Computer Science student who loves turning ideas into code.
 Fueled by curiosity, logic, and late-night debugging snacks 😄
 
 ---
-
-## 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kissa-zehra)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KissaZehra95947)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kissazehra180@gmail.com)
-
----
-
-## ⭐ Show Some Love
-
-If you liked this project, give it a ⭐  
-Feel free to fork, use, or improve it!
-
----
-
-> 💙 Made with Python & Passion by **Kissa Zehra**
->>>>>>> fa5fbde (Add complete README file)
